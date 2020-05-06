@@ -16,8 +16,8 @@
 
 ## Links
 
-- We will be having a dedicated doubt clearing session but till then feel free to post your doubts here [link](https://forms.gle/n5z5X1dnrcCyxzcD9)
+**We will be having a dedicated doubt clearing session but till then feel free to post your doubts here [link](https://forms.gle/n5z5X1dnrcCyxzcD9)**
 
-We will reply to everyone's doubts via email or if relevant can be taken up in the next session as well.
+*We will reply to everyone's doubts via email or if relevant can be taken up in the next session as well.*
 
-- Feel free to give us some feedback/suggestion regarding the session. You can also use this link to suggest topics/content we must take up in the next one. [link](https://forms.gle/pCbqWB9E1dztXPRU8)
+**Feel free to give us some feedback/suggestion regarding the session. You can also use this link to suggest topics/content we must take up in the next one. [link](https://forms.gle/pCbqWB9E1dztXPRU8)**
