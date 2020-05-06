@@ -5,7 +5,7 @@
 ## Schedule
 
 - Presession content till actual sessions start for self reading
-- Actual sessions start from 11th April.
+- Actual sessions start from 11th May.
 - Code Along session
 - Developing the intuition of why the model works/what has the model learnt + simple/quick walkthrough of latest paper relevant to the same task.
 - Doubt Session
