@@ -4,5 +4,6 @@
 - How Python's memory allocation works (quick interesting read) - [link](Memory-Allocation.ipynb)
 - A quick task --- do try it out [link](Python-Syntax-Task.ipynb) -----------> [solution](Python-Syntax-Task-Solutions.ipynb)
 - Intro to Machine Learning [link](intro_to_machine_learning.pdf), Supervised and Unsupervised Learning [link](supervised_and_unsupervised_learning-1.pdf)
+- Implementing a simple univariate linear regression from scratch [link](Linear-Regression.ipynb)
 
 ### We will be updating this regularly till the actual session begins next week. So feel free to check in every day!
