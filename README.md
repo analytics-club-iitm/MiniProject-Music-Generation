@@ -18,7 +18,7 @@
 
 - [slides](assets/Music%20Generation%20-%20Session%201.pptx) | [pdf](assets/Music%20Generation%20-%20Session%201.pdf) 
 
-- Session recordings - [GRP-1](https://drive.google.com/open?id=1B-B6KpAyXoV8asUxk25Hs21pTzon3X8m) | [GRP-2](https://drive.google.com/file/d/1JO8ZQB4haw3-vBqcwabFHZGhPCm8NYLz/view) | [GRP-3(will be updated)]()
+- Session recordings - [GRP-1](https://drive.google.com/open?id=1B-B6KpAyXoV8asUxk25Hs21pTzon3X8m) | [GRP-2](https://drive.google.com/file/d/1JO8ZQB4haw3-vBqcwabFHZGhPCm8NYLz/view) | [GRP-3](https://drive.google.com/file/d/1UB_stAfLnA2nrG3kgECaK1IhlB4E9pLz/view?ts=5eb927cd)
 
 
 ## Links
