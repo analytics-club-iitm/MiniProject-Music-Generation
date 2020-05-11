@@ -12,13 +12,13 @@
   
 ## Content
 
-- [Pre-session Content](./presession/) 
+1. [Pre-session Content](./presession/) 
 
-- **Session 1 - Introduction to ML, Nueral Networks**
+2. **Session 1 - Introduction to ML, Nueral Networks**
 
-[slides](assets/Music%20Generation%20-%20Session%201.pptx) | [pdf](assets/Music%20Generation%20-%20Session%201.pdf) 
+- [slides](assets/Music%20Generation%20-%20Session%201.pptx) | [pdf](assets/Music%20Generation%20-%20Session%201.pdf) 
 
-Session recordings - [GRP-1](https://drive.google.com/open?id=1B-B6KpAyXoV8asUxk25Hs21pTzon3X8m) | [GRP-2](https://drive.google.com/file/d/1JO8ZQB4haw3-vBqcwabFHZGhPCm8NYLz/view) | [GRP-3(will be updated)]()
+- Session recordings - [GRP-1](https://drive.google.com/open?id=1B-B6KpAyXoV8asUxk25Hs21pTzon3X8m) | [GRP-2](https://drive.google.com/file/d/1JO8ZQB4haw3-vBqcwabFHZGhPCm8NYLz/view) | [GRP-3(will be updated)]()
 
 
 ## Links
