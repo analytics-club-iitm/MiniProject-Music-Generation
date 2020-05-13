@@ -25,6 +25,11 @@
 - [slides](assets/RNN%20and%20LSTM.pptx) | [pdf](assets/RNN%20and%20LSTM.pdf) 
 - Session recordings - [GRP-1](https://drive.google.com/file/d/1SO2kZrhr2uylA8El4TyCggOcUoevzfFb/view?usp=drivesdk) | [GRP-2](https://drive.google.com/file/d/1DV474hNfRnEVCqlzx4K9W_kexgpbQHgD/view) | [GRP-3](https://drive.google.com/file/d/1cKZzFmcUZmNDUhKXafFpge_j4R3eTCSJ/view?ts=5eb95683)
 
+4. **Code Along**
+
+- Dataset [link](assets/Data_Tunes.txt)
+
+------
 
 ## Links
 
