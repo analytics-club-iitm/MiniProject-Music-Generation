@@ -28,6 +28,7 @@
 4. **Code Along**
 
 - Dataset [link](assets/Data_Tunes.txt)
+- Weights file [link](assets/weights.hdf5)
 
 ------
 
