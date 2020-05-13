@@ -29,6 +29,8 @@
 
 - Dataset [link](assets/Data_Tunes.txt)
 - Weights file [link](assets/weights.hdf5)
+- Session recordings - [GRP-1](https://drive.google.com/file/d/1Lusn8IlhlzfqUxHKkJ5pMB6-Ik3WK3oB/view?usp=sharing) | [GRP-2](https://drive.google.com/file/d/1K1MqIWBsBaZEjPjdtuJKOYwbD8rdrGuo/view) | [GRP-3](https://drive.google.com/file/d/1_9kkvKYef5nqLv98yw98h6fFe8H53JrY/view?ts=5ebc34f0) 
+- Code [link](assets/Music-Generation.ipynb)
 
 ------
 
