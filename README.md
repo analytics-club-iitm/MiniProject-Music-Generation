@@ -34,6 +34,9 @@
 
 5. **Intuition, Doubts and Paper Review**
 - Session Recording [link](https://drive.google.com/file/d/1UEQXhFG3r3ZWgF2wTYbAehI6V8Te9Brw/view?usp=sharing) Paper [link](https://arxiv.org/pdf/2005.00341.pdf)
+
+**Some sample outputs :** [demo1](assets/demo1.mp3) [demo2](assets/demo2.mp3)
+
 ------
 
 ## Links
