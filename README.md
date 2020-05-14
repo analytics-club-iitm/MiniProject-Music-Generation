@@ -32,6 +32,8 @@
 - Session recordings - [GRP-1](https://drive.google.com/file/d/1Lusn8IlhlzfqUxHKkJ5pMB6-Ik3WK3oB/view?usp=sharing) | [GRP-2](https://drive.google.com/file/d/1K1MqIWBsBaZEjPjdtuJKOYwbD8rdrGuo/view) | [GRP-3](https://drive.google.com/file/d/1_9kkvKYef5nqLv98yw98h6fFe8H53JrY/view?ts=5ebc34f0) 
 - Code [link](assets/Music-Generation.ipynb)
 
+5. **Intuition, Doubts and Paper Review**
+- Session Recording [link](https://drive.google.com/file/d/1UEQXhFG3r3ZWgF2wTYbAehI6V8Te9Brw/view?usp=sharing) Paper [link](https://arxiv.org/pdf/2005.00341.pdf)
 ------
 
 ## Links
