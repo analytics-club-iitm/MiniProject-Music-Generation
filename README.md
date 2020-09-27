@@ -1,4 +1,4 @@
-# Mini-Project 1 - Analytics Club, IIT Madras <img src="assets/cfi.png" width="70" height="40"/>
+# Mini-Project Music Generation - Analytics Club, IIT Madras <img src="assets/cfi.png" width="70" height="40"/>
 
 ![poster](assets/poster.jpeg)
 
